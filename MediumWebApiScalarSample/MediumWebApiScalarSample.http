@@ -1,0 +1,6 @@
+@MediumWebApiScalarSample_HostAddress = http://localhost:5036
+
+GET {{MediumWebApiScalarSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
